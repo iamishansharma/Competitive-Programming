@@ -8,4 +8,4 @@ These are my solutions to contests (month long) on [LeetCode](https://leetcode.c
 
 | Month-Year| LeetCode Link| Folder Link|
 |  :--------: |  :--------: | :--------: |
-| June-2020 | [Link](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/) | [Solutions](https://github.com/iamishansharma/Competitive-Programming/tree/master/LeetCode/June)
+| June-2020 | [Link](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/) | [Solutions]()
