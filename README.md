@@ -1,7 +1,7 @@
 # Competitive Programming
 
 <p align="center">
-  <img src="cplogo.png" width = "1000">
+  <img src="cplogo.png" width = "900">
 </p>
 
 These are my solutions to live competitive programming contests from [Codechef](https://www.codechef.com), [CodeForces](https://codeforces.com) and [LeetCode](https://leetcode.com)
