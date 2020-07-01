@@ -10,4 +10,4 @@ These are my solutions to contests (month long) on [LeetCode](https://leetcode.c
 |  :--------: |  :--------: | :--------: |
 | May-2020 | [Link](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/) | [Solutions](https://github.com/iamishansharma/Competitive-Programming/tree/master/LeetCode/May)
 | June-2020 | [Link](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/) | [Solutions](https://github.com/iamishansharma/Competitive-Programming/tree/master/LeetCode/June)
-| July-2020 | [Link](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/) | [Solutions]()
+| July-2020 | [Link](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/) | [Solutions](https://github.com/iamishansharma/Competitive-Programming/tree/master/LeetCode/July)
